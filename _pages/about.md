@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm **Shaoyu Wang**, a last-year undergraduate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/). Now I'm pursuing my bechelor degree in Computer Science and Technology.
+Hi, I'm **Shaoyu Wang**, a last-year undergraduate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/). Now I'm pursuing my bechelor's degree in computer science and technology.
 
 My research interests lie in computer architecture and machine learning system. I'm looking forward to improving the performance of intensive computing especially in the field of AI through software and hardware. 
 
@@ -48,9 +48,9 @@ My research interests lie in computer architecture and machine learning system. 
 
 **Experiments of Operating System**, Huazhong University of Science and Technology
 - 2023 fall, with Prof. Zhiyuan Shao
-- Build [https://gitee.com/hustos/riscv-pke](riscv-pke), an operating system kernel drived by [spike](https://github.com/riscv-software-src/riscv-isa-sim)
+- Build [riscv-pke](https://gitee.com/hustos/riscv-pke), an operating system kernel drived by [spike](https://github.com/riscv-software-src/riscv-isa-sim)
 
-#### Campus experience
+#### Campus Activities
 
 **Unique Studio**
 - A member of Lab Group since 2020 fall, 
@@ -59,6 +59,10 @@ My research interests lie in computer architecture and machine learning system. 
 **Heptagon - HUST Student Cluster Competition Team**
 - Joined and then led the team for a year, prepare undergrate student for HPC
 - Won some awards at different kinds of student cluster competitions
+
+[**Open Source Promotion Plan**](https://summer-ospp.ac.cn/)
+- Selected in 2021 and 2023 summer, funded by Chinese Academy of Science
+- Contribute to openEuler and OIWiki
 
 
 #### Misc
