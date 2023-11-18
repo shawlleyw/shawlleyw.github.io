@@ -19,8 +19,46 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am Shaoyu Wang, a last-year undergraduate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/). Now I am puring my bechelor degree in Computer Science and Technology.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in computer architecture and machine learning system. I am looking to improve the performance of intensive computing especially in AI through software and hardware. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Research Experience`
+
+**National University of Singapore**
+- From July 2023
+- Advised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/)
+- Topic: efficient LLM serving system
+
+**College of William and Mary**
+- From April 2022 to March 2023
+- Advised by [Prof. Yifan Sun](https://syifan.github.io/) and [Prof. Katherine E. Issacs](https://kisaacs.github.io/)
+- Topic: network-on-chip and its visualization analysis
+
+## Work Experience
+
+**NVIDIA**
+- From March 2023 to August 2023
+- Intern at HPC Performance Architecture Team
+
+**Bytedance**
+- From June 2022 to September 2022
+- Intern at Cloud Computing Infrastracture Team
+
+## Teaching Assistant
+
+**Experiments of Operating System**, Huazhong University of Science and Technology
+- 2023 fall, with Prof. Zhiyuan Shao
+- Build riscv-pke, an operating system kernel drived by spike
+
+## Campus experience
+
+**Unique Studio**
+
+**HUST Student Cluster Competition Team**
+
+
+
+
+
+
