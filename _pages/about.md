@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Wuhan, China</p>
-    <p href="mailto:wsyy0619@gmail.com">wsyy0619@gmail.com</p>
-
+    <p><a href="mailto:wsyy0619@gmail.com">wsyy0619@gmail.com</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,14 +18,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Shaoyu Wang, a last-year undergraduate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/). Now I'm pursuing my bechelor degree in Computer Science and Technology.
+Hi, I'm **Shaoyu Wang**, a last-year undergraduate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/). Now I'm pursuing my bechelor degree in Computer Science and Technology.
 
 My research interests lie in computer architecture and machine learning system. I'm looking forward to improving the performance of intensive computing especially in the field of AI through software and hardware. 
 
-### Research Experience
+#### Research Experience
 
 **National University of Singapore**
-- From July 2023
+- From July 2023 to the present
 - Advised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/)
 - Topic: efficient LLM serving system
 
@@ -35,7 +34,7 @@ My research interests lie in computer architecture and machine learning system. 
 - Advised by [Prof. Yifan Sun](https://syifan.github.io/) and [Prof. Katherine E. Issacs](https://kisaacs.github.io/)
 - Topic: network-on-chip and its visualization analysis
 
-### Work Experience
+#### Work Experience
 
 **NVIDIA**
 - From March 2023 to August 2023
@@ -45,20 +44,28 @@ My research interests lie in computer architecture and machine learning system. 
 - From June 2022 to September 2022
 - Intern at Cloud Computing Infrastracture Team
 
-### Teaching Assistant
+#### Teaching Assistant
 
 **Experiments of Operating System**, Huazhong University of Science and Technology
 - 2023 fall, with Prof. Zhiyuan Shao
 - Build [https://gitee.com/hustos/riscv-pke](riscv-pke), an operating system kernel drived by [spike](https://github.com/riscv-software-src/riscv-isa-sim)
 
-### Campus experience
+#### Campus experience
 
 **Unique Studio**
+- A member of Lab Group since 2020 fall, 
+- I developed my interest and skills in computer system there
 
-**HUST Student Cluster Competition Team**
+**Heptagon - HUST Student Cluster Competition Team**
+- Joined and then led the team for a year, prepare undergrate student for HPC
+- Won some awards at different kinds of student cluster competitions
 
 
+#### Misc
 
+In my spare time, I go cycling and swimming. I love watching ball games though I hardly play any of them.
 
+I'm developing my skills in playing the guitar.
 
+I play League of Legends and Valorant by Riot Games.
 
