@@ -58,11 +58,11 @@ My research interests lie in computer architecture and machine learning system. 
 
 **Heptagon - HUST Student Cluster Competition Team**
 - Joined and then led the team for a year, prepare undergrate student for HPC
-- Won some awards at different kinds of student cluster competitions
+- Won several awards in different kinds of student cluster competitions
 
 [**Open Source Promotion Plan**](https://summer-ospp.ac.cn/)
 - Selected in 2021 and 2023 summer, funded by Chinese Academy of Science
-- Contributed to openEuler and OIWiki
+- Contributed to [openEuler](https://www.openeuler.org/en/) and [OIWiki](https://en.oi-wiki.org/)
 
 
 #### Misc
