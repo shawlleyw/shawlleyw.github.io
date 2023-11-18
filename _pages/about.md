@@ -19,11 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am Shaoyu Wang, a last-year undergraduate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/). Now I am puring my bechelor degree in Computer Science and Technology.
+Hi, I'm Shaoyu Wang, a last-year undergraduate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/). Now I'm pursuing my bechelor degree in Computer Science and Technology.
 
-My research interests lie in computer architecture and machine learning system. I am looking to improve the performance of intensive computing especially in AI through software and hardware. 
+My research interests lie in computer architecture and machine learning system. I'm looking forward to improving the performance of intensive computing especially in the field of AI through software and hardware. 
 
-## Research Experience`
+### Research Experience
 
 **National University of Singapore**
 - From July 2023
@@ -35,7 +35,7 @@ My research interests lie in computer architecture and machine learning system. 
 - Advised by [Prof. Yifan Sun](https://syifan.github.io/) and [Prof. Katherine E. Issacs](https://kisaacs.github.io/)
 - Topic: network-on-chip and its visualization analysis
 
-## Work Experience
+### Work Experience
 
 **NVIDIA**
 - From March 2023 to August 2023
@@ -45,13 +45,13 @@ My research interests lie in computer architecture and machine learning system. 
 - From June 2022 to September 2022
 - Intern at Cloud Computing Infrastracture Team
 
-## Teaching Assistant
+### Teaching Assistant
 
 **Experiments of Operating System**, Huazhong University of Science and Technology
 - 2023 fall, with Prof. Zhiyuan Shao
-- Build riscv-pke, an operating system kernel drived by spike
+- Build [https://gitee.com/hustos/riscv-pke](riscv-pke), an operating system kernel drived by [spike](https://github.com/riscv-software-src/riscv-isa-sim)
 
-## Campus experience
+### Campus experience
 
 **Unique Studio**
 
