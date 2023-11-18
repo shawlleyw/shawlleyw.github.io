@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Shaoyu Wang's page # the website title (if blank, full name will be used instead)
+title: Shaoyu Wang # the website title (if blank, full name will be used instead)
 first_name: Shaoyu
 last_name: Wang
 email: wsyy0619@gmail.com
@@ -12,7 +12,7 @@ footer_text:
 keywords: academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 📄 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://shawlleyw.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
