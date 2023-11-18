@@ -53,7 +53,7 @@ My research interests lie in computer architecture and machine learning system. 
 #### Campus Activities
 
 **Unique Studio**
-- A member of Lab Group since 2020 fall, 
+- A member of Lab Group since 2020 fall
 - I developed my interest and skills in computer system there
 
 **Heptagon - HUST Student Cluster Competition Team**
@@ -62,7 +62,7 @@ My research interests lie in computer architecture and machine learning system. 
 
 [**Open Source Promotion Plan**](https://summer-ospp.ac.cn/)
 - Selected in 2021 and 2023 summer, funded by Chinese Academy of Science
-- Contribute to openEuler and OIWiki
+- Contributed to openEuler and OIWiki
 
 
 #### Misc
