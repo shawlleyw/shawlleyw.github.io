@@ -27,12 +27,12 @@ My research interests lie in computer architecture and machine learning system. 
 **National University of Singapore**
 - From July 2023 to the present
 - Advised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/)
-- Topic: efficient LLM serving system
+- Working on efficient LLM serving system
 
 **College of William and Mary**
 - From April 2022 to March 2023
 - Advised by [Prof. Yifan Sun](https://syifan.github.io/) and [Prof. Katherine E. Issacs](https://kisaacs.github.io/)
-- Topic: network-on-chip and its visualization analysis
+- Worked on network-on-chip and its visualization analysis
 
 #### Work Experience
 
@@ -57,7 +57,7 @@ My research interests lie in computer architecture and machine learning system. 
 - I developed my interest and skills in computer system there
 
 **Heptagon - HUST Student Cluster Competition Team**
-- Joined and then led the team for a year, prepare undergrate student for HPC
+- Joined and then led the team for a year, preparing undergrate student for HPC, advised by [Prof. Xuanhua Shi](https://sites.google.com/view/xhshi/home/)
 - Won several awards in different kinds of student cluster competitions
 
 [**Open Source Promotion Plan**](https://summer-ospp.ac.cn/)
